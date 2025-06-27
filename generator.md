@@ -1,0 +1,1 @@
+Refine this prompt so that I can use it in my collection of prompts. The idea of this as to have well written prmpts that I can give to coding agents to reproduce certain code. The prompts should be able to be modified 
